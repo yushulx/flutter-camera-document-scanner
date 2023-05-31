@@ -32,3 +32,5 @@ https://github.com/yushulx/flutter_document_scan_sdk/assets/2202306/6ef5e1e0-b3c
 
     ![Flutter document editor](https://www.dynamsoft.com/codepool/img/2023/05/flutter-document-edge-editor.png)
     
+## Try Online Demo
+https://yushulx.me/flutter-camera-document-scanner
