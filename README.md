@@ -34,3 +34,7 @@ https://github.com/yushulx/flutter_document_scan_sdk/assets/2202306/6ef5e1e0-b3c
     
 ## Try Online Demo
 https://yushulx.me/flutter-camera-document-scanner
+
+## Blog
+[Scan Documents Using Camera on Multiple Platforms: A Flutter Guide for Windows, Android, iOS, and Web](https://www.dynamsoft.com/codepool/flutter-camera-document-scanner.html)
+
